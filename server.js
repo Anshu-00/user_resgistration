@@ -12,7 +12,7 @@ const app = express();
 connectDB();
 app.use(
   cors({
-    origin: "https://user-resgistration-2.onrender.com",
+    origin: "https://user-resgistration-2.onrender.com/api/users",
   })
 );
 app.use(bodyParser.json());
