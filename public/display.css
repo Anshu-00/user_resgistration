@@ -40,8 +40,7 @@ font-size: 15px;
 
 th {
 /* background-color: #831370; */
-background-color: #FF3CAC;
-background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+background-color: #284453;
 
 color: white;
 }
@@ -50,9 +49,7 @@ color: white;
 margin: auto;
 width: 150px;
 padding: 10px;
-background-color: #FF3CAC;
-background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
-
+background-color: #0e2430;
 color: rgb(255, 255, 255);
 /* background-color: #026144;
 color: white; */
@@ -66,7 +63,6 @@ margin-top: 20px;
 
 #addNewUserBtn:hover {
 /* background-color: #06d6a0; */
-background-color: #FF3CAC;
-background-image: linear-gradient(225deg, #b9337f 0%, #6d349f 50%, #246695 100%);
+background-color: #671443;
 
 }
